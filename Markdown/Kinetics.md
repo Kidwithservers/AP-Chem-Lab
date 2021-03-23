@@ -1,5 +1,9 @@
 # Kinetics Lab
 
+## Prelab
+### Introduction
+This lab explores the relationship between heat, surface area, and concnetration in reactions. Using several controled reactions, we will measure the effects of these factors, and relate them to the reactoion's kinetics. We will then use this information to predict the effects of these factors on the reaction's rate.
+
 ## Experiment One: Sodium Bicarbonate and Citric Acid
 ---
 ### Materials
